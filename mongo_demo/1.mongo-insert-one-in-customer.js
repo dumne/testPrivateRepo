@@ -1,0 +1,1 @@
+await db.collection('customer').insertOne({name: 'Suresh',age:25,country:"IN"});

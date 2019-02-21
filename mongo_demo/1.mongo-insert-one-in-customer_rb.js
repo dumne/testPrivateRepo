@@ -1,0 +1,1 @@
+await db.collection('customer').deleteOne({name: 'Suresh'});
