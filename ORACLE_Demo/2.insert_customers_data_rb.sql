@@ -1,2 +1,2 @@
-DELETE from Customers2
+DELETE from customers
 WHERE city in ('Bothell', 'Bellevue');
