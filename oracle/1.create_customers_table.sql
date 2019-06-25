@@ -5,3 +5,4 @@ CREATE TABLE Customers
   city varchar2(50),
   state1 varchar2(50)   
 );  
+EXIT
