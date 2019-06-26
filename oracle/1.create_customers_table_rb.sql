@@ -1,3 +1,1 @@
-SET ECHO ON;
 DROP TABLE Customers;
-EXIT;
